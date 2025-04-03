@@ -1,6 +1,12 @@
 # PLSQL_Gestion_Ventas
 Repositorio con una aplicación simple, pero con una base de datos desarrollada de manera detallada, con la creación de tablas, consultas, funciones, procedimientos y triggers. 
 
+
+Modelo ER
+
+![image](https://github.com/user-attachments/assets/cd09795d-b763-4b3f-9738-a6bc5448d615)
+
+
 Trigger de bitacora de vendedores luego de aplicado update
 ![trigger para bitacora de vendedores](https://github.com/user-attachments/assets/19972de1-18a5-4ca1-8787-c84c02f9f4f9)
 
